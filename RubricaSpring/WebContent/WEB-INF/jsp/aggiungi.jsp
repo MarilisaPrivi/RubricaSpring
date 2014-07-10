@@ -7,6 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
+<form id="aggiungi" method="post">
+<table>
+<tr><td>Nome</td><td><input type="text" name="nome"></input></td></tr>
+<tr><td>Cognome</td><td><input type="text" name="cognome"></input></td></tr>
+<tr><td>Numero</td><td><input type="text" name="numero"></input></td></tr>
 
+<tr><td><br><input type="submit" value="inserisci"></input></td></tr>
+</table>
+</form>
 </body>
 </html>
